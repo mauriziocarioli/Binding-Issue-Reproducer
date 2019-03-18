@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>gov.cms</groupId>
-  <artifactId>FQHC-Pricer</artifactId>
+  <artifactId>Binding-Issue-Reproducer</artifactId>
   <version>0.1.11-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>FQHC-Pricer</name>
+  <name>Binding-Issue-Reproducer</name>
   <description></description>
   <dependencies>
     <dependency>
