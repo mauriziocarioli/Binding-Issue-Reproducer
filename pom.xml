@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>gov.cms</groupId>
   <artifactId>Binding-Issue-Reproducer</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>Binding-Issue-Reproducer</name>
   <description></description>
